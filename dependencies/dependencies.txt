@@ -1,0 +1,17 @@
+Dependences:
+   - Lombok
+   - Jedis
+   - Raauhh's PaperSpigot fork
+
+   - dmulloy2's 1.7.10 ProtocolLib
+       * https://www.spigotmc.org/resources/protocollib.1997/
+
+   - Brettflan's 1.7.10 WorldBorder
+       * https://dev.bukkit.org/projects/worldborder
+
+   - inventivetalent's Hologram API
+       * https://www.spigotmc.org/resources/api-hologramapi-1-7-1-8-1-9-1-10.6766/
+	 
+# Using RSpigot you can configure your knockback values at paper.yml
+
+

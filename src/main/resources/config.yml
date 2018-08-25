@@ -1,0 +1,43 @@
+redis:
+  enabled: false
+  address: localhost
+  authentication:
+    enabled: false
+    password: ""
+
+worlds:
+  overworld:
+    name: 'uhc_world'
+    size: 2000
+  nether:
+    name: 'uhc_world_nether'
+    size: 400
+  deathmatch:
+    name: 'uhc_world_deathmatch'
+    size: 12
+
+
+tweets:
+  post:
+    - 'UHC'
+    - ''
+    - 'Teams: <teams>'
+    - 'Gamemodes: <gamemodes>'
+    - 'Time: <time> (In <intime>)'
+    - 'Slots: <slots>'
+    - ''
+    - 'IP: raauhh.me'
+
+colored-names:
+  teammates: '§a'
+  enemies: '§f'
+  spectators: '§7'
+  noclean: '§c'
+
+border-shrinks:
+  - 300,1500
+  - 300,1000
+  - 300,500
+  - 300,100
+  - 300,50
+  - 300,25

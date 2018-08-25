@@ -1,0 +1,21 @@
+name: UHC
+main: me.raauhh.uhc.UHC
+version: 2.7.1
+commands:
+  team:
+  config:
+  helpop:
+    aliases: [request]
+  killcount:
+    aliases: [kills, kc]
+  whitelist:
+    permission: uhc.vip
+    aliases: [wl]
+  killtop:
+    aliases: [kt]
+  scenarios:
+    aliases: [gamemodes]
+  uhc:
+    permission: uhc.staff
+  teamlist:
+    aliases: [tl]
